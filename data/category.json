@@ -2,37 +2,37 @@
   {
     "id": 1,
     "name": "Web Development",
-    "img": "../images/web.jpg",
+    "img": "https://www.creativeitinstitute.com/images/course/course_1662791772.jpg",
     "price": "8000 TK"
   },
   {
     "id": 2,
     "name": "UI/UX Design",
-    "img": "../images/UIUX-Design-.jpg",
+    "img": "https://www.mooc.org/hubfs/web-programming-languages.jpg",
     "price": "6000 TK"
   },
   {
     "id": 3,
     "name": "Digital Marketing",
-    "img": "../images/dgm-n.jpg",
+    "img": "https://neilpatel.com/wp-content/uploads/2021/07/digital-marketing_featured-image.png",
     "price": "7000 TK"
   },
   {
     "id": 4,
     "name": "Graphic Design",
-    "img": "../images/GD.jpg",
+    "img": "https://www.totaljobs.com/advice/wp-content/uploads/graphic-designer-job-description-1024x576.jpg",
     "price": "4000 TK"
   },
   {
     "id": 5,
     "name": "Photography",
-    "img": "../images/photo-graphy.jpg",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Winterswijk_%28NL%29%2C_Woold%2C_Boven_Slinge_--_2014_--_3170.jpg/1280px-Winterswijk_%28NL%29%2C_Woold%2C_Boven_Slinge_--_2014_--_3170.jpg",
     "price": "5000 TK"
   },
   {
     "id": 6,
     "name": "English Spiking",
-    "img": "../images/spoken-english-3.jpg",
+    "img": "https://www.chandigarhhelp.com/wp-content/uploads/2022/01/List-of-English-Speaking-Courses-Institutes-in-Panchkula.png",
     "price": "10000 TK"
   }
 ]

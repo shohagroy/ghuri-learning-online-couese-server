@@ -1,7 +1,50 @@
 [
   {
     "id": 1,
-    "name": "Web Design",
-    "img": "../images/GD.jpg"
+    "category": "Web Development",
+    "img": "https://www.creativeitinstitute.com/images/course/course_1662791772.jpg",
+    "name": "Advanced Web Development Course",
+    "details": "Advanced Web Development is one of the critical areas of computer science. It includes web designing, programming, database management, and other related staff. Web Development is all about creating, building, and maintaining websites and web applications. It includes web designing, programming, database management, and other related staff. To run a website successfully, some parameters should be met that are also part of the Web Development process. Speed, Stability, Robustness, Accessibility, and Usability; these properties need to be maintained.Advanced Web Development is one of the critical areas of computer science. It is performed to maintain large-scale web applications, social media, advertising, etc. The difference between Advanced Web Development and Web Development is that in advanced web development web services are used that are beyond web service standards.",
+    "price": "8000 TK"
+  },
+  {
+    "id": 2,
+    "category": "UI/UX Design",
+    "img": "https://www.mooc.org/hubfs/web-programming-languages.jpg",
+    "name": "Professional UI/UX Design Training Course",
+    "details": "AAVA 3D provides the Best UI/UX Design Training Course in Bangladesh. UI/UX could be a very essential feature of our mobile application. so as to form your app successful, you need to provide a tremendous interface and user experience through your app. By understanding the requirement of your target market and their market preference, you'll be able to make your app interactive and more engaging. AAVA 3D provides the best UI/UX Design course in Bangladesh. We are fully dedicated to our students and really determined to providing the best quality in every class. UX-UI Designers are generally accountable for collecting, researching, investigating, and evaluating user requirements. Their responsibility is to deliver an excellent user experience providing an exceptional and intuitive application design. You'll be designing ideas using various methods and also the foremost recent technology. UX design plays well A UX Designer at the number 6 on Glassdoor's list of 25 Highest Paying Entry Level Jobs in 2019. AAVA 3D provides best the best UI/UX Design training course in Bangladesh. We have highly experienced mentors who will take you to the peak of success. This guideline helps you in your lifetime. AAVA 3D always provide class-recorded videos. AAVA 3D provides the best UI/UX Design training course in Bangladesh and lifetime support. We will give you class wise assignment and a final project for your working portfolio. After completing assignments and final projects you will accomplish the certification from AAVA3D. We provide the best UI/UX Design Training Course in Bangladesh. That's why AAVA 3D is the best choice who want to learn Advance Graphic Design. Let's see your Advance Graphic Design.",
+    "price": "6000 TK"
+  },
+  {
+    "id": 3,
+    "category": "Digital Marketing",
+    "img": "https://neilpatel.com/wp-content/uploads/2021/07/digital-marketing_featured-image.png",
+    "name": "Digital Marketing Course",
+    "details": "This Digital Marketing Training Program provides a detailed understanding of Digital Marketing concepts, strategies, and implementation, including planning a website, website promotion, email and Search Engine Optimization (SEO) campaigns, and integrating digital marketing with traditional marketing.This Digital Marketing Training Program provides a detailed understanding of Digital Marketing concepts, strategies, and implementation, including planning a website, website promotion, email and Search Engine Optimization (SEO) campaigns, and integrating digital marketing with traditional marketing.Covering best practices and using case studies throughout, the session offers a practical guide to the core techniques in digital marketing. Online tools and reference materials are highlighted throughout, enabling delegates to leave with solid hands-on knowledge that they can implement immediately upon return to the office.After completing the course students will become expert Digital Marketers. They will become certified in social media marketing(Ex: Facebook, Instagram, Linkedin & Pinterest Marketing), Search Engine Optimization, Google Ads(PPC), Google Analytics, Google Tag Manager, YouTube marketing, Email Marketing, Reddit Marketing and many more.",
+    "price": "7000 TK"
+  },
+  {
+    "id": 4,
+    "category": "Graphic Design",
+    "img": "https://www.totaljobs.com/advice/wp-content/uploads/graphic-designer-job-description-1024x576.jpg",
+    "name": "Professional Graphic Design Course",
+    "details": "Graphic design is currently the most sought-after skill in Bangladesh. It is visual content that communicates ideas and thoughts through the power of art. Today, graphic design has become a prevalent and modern profession. There are many job opportunities available now. In the contemporary world, almost everything is online, so nearly all businesses want to ensure their presence online, which is why graphic designers are so important. A graphics designer is responsible for designing various products, such as the company's flyer brochures or its most important brand identity. A growing number of graphic design courses are offered to meet the increasing demand in this field! Many institutes or platforms offer Graphics Design courses in Bangladesh, some of which are designed offline and some of which are based online. Now, let's find out the most popular and best graphics design training courses and how you can determine them for yourself!",
+    "price": "4000 TK"
+  },
+  {
+    "id": 5,
+    "category": "Photography",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Winterswijk_%28NL%29%2C_Woold%2C_Boven_Slinge_--_2014_--_3170.jpg/1280px-Winterswijk_%28NL%29%2C_Woold%2C_Boven_Slinge_--_2014_--_3170.jpg",
+    "name": "Professional Photography Course",
+    "details": "Choosing a photography course is perhaps the best investment a novice photographer can make. But, do you know what the paradox is? Most people spend thousands of taka on a camera that has too many features. But then they don't really know how to use it!Because the truth is that all that technology is useless if you don't know how to build a perfect photo. But when it is forbidden to go out in this challenging time, how will you get the knowledge?That is the reason a reliable and accomplished online photography course in Bangladesh is essential. Dream Weaver is one of the most respected and pioneer photography companies. They've been in the business for many years, and their list of awards will prove this statement. This time, they have come forward to teach their secret of success among the armatures and enthusiasts. Along with Ghoorilearning.com, they have decorated an online photography course that will help the newcomers like anything.",
+    "price": "5000 TK"
+  },
+  {
+    "id": 6,
+    "category": "English Spiking",
+    "img": "https://www.chandigarhhelp.com/wp-content/uploads/2022/01/List-of-English-Speaking-Courses-Institutes-in-Panchkula.png",
+    "name": "Spoken English: Learn to speak English fluently with Saroar Hossain",
+    "details": "In this course you will be abel to improve your English speaking from basic level. Remember, this course deals with the basic Spoken English. If you are already a good speaker and looking for developing your pronunciationa and presentation skills, you may find our 'Phonetics' and 'Presentation' courses helpful.From next week, we'll post a new lesson on Spoken English course. Meanwhile, you can practice the following three things everyday",
+    "price": "10000 TK"
   }
 ]
