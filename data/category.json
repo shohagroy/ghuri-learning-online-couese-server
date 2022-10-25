@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Web Development",
+    "img": "../images/web.jpg",
+    "price": "8000 TK"
+  },
+  {
+    "id": 2,
+    "name": "UI/UX Design",
+    "img": "../images/UIUX-Design-.jpg",
+    "price": "6000 TK"
+  },
+  {
+    "id": 3,
+    "name": "Digital Marketing",
+    "img": "../images/dgm-n.jpg",
+    "price": "7000 TK"
+  },
+  {
+    "id": 4,
+    "name": "Graphic Design",
+    "img": "../images/GD.jpg",
+    "price": "4000 TK"
+  },
+  {
+    "id": 5,
+    "name": "Photography",
+    "img": "../images/photo-graphy.jpg",
+    "price": "5000 TK"
+  },
+  {
+    "id": 6,
+    "name": "English Spiking",
+    "img": "../images/spoken-english-3.jpg",
+    "price": "10000 TK"
+  }
+]
